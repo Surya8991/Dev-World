@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;700;800;900&display=swap');
+
+.frontOfPage{
+    font-family: 'League Spartan', sans-serif;
+    color: aliceblue;
+    text-align: center;
+    padding:50px;
+    background-color: rgb(33, 37, 41);
+    font-weight: 900;
+    font-size: 36px;
+}
+
+a{
+    font-family: 'League Spartan', sans-serif;
+}
+
