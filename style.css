@@ -1,16 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;700;800;900&display=swap');
 
-.frontOfPage{
+*{
     font-family: 'League Spartan', sans-serif;
-    color: aliceblue;
+}
+.frontOfPage{
+    color: white;
     text-align: center;
-    padding:50px;
+    padding:20px;
     background-color: rgb(33, 37, 41);
     font-weight: 900;
     font-size: 36px;
 }
 
-a{
-    font-family: 'League Spartan', sans-serif;
+footer .nav-link,.footer-text{
+    font-weight: 600;
+    color:white
 }
-
+.footer{
+    background-color: rgb(33, 37, 41);
+}
